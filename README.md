@@ -1,7 +1,7 @@
 
 ### Clone the project with a new name
 ### Create a  virtual environment 
-### If linked to a virtual repository unlink it
+### If linked to a virtual repository unlink it (from Manage Remotes)
 ### Push it to a new repository
 
 
