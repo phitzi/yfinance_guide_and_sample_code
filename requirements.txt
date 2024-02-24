@@ -1,7 +1,4 @@
 numpy
 pandas
-matplotlib
-seaborn
-scipy
-scikit-learn
-jupyterlab
+jupyter
+yfinance
