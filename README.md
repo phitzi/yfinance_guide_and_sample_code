@@ -1,12 +1,2 @@
 
-### Clone the project with a new name
-### Create a  virtual environment 
-### If linked to a virtual repository unlink it (from Manage Remotes)
-### Push it to a new repository
-
-
-Requirements
-
-when downloaded open requirements.txt - pycharm should ask if it should meet the requirements
-
-while making changes - you can update the requirements.txt using "Sync Python Requirements"
+### This is a collection of notebooks to experiment with yfinance
